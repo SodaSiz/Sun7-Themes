@@ -280,9 +280,7 @@
             "#2780E6"
         ],
         "INTERACTIVE_HOVER": [
-            "#061428",
-            "#665c54",
-            "#061428"
+            "#FFFFFF"
         ],
         "INTERACTIVE_MUTED": [
             "#3f414c",
@@ -306,7 +304,7 @@
         ],
         "SCROLLBAR_AUTO_THUMB": [
             "#061428",
-            "#061428",
+           FFF "#061428",
             "#061428"
         ],
         "SCROLLBAR_AUTO_TRACK": [
